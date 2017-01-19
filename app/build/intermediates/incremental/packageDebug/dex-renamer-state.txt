@@ -1,0 +1,7 @@
+#Wed Jan 18 20:55:38 CST 2017
+base.0=D\:\\workspace\\CampusDiary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7d588755d84b1d9d2b261e7627daadf010f30379
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\workspace\\CampusDiary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_75422ad942d399a264d70d51a774ee562d287ba7\\classes.dex
+base.1=D\:\\workspace\\CampusDiary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_75422ad942d399a264d70d51a774ee562d287ba7
+file.0=D\:\\workspace\\CampusDiary\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7d588755d84b1d9d2b261e7627daadf010f30379\\classes.dex

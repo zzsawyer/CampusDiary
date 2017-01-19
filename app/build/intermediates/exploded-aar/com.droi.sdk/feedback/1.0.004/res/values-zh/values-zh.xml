@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="droi_feedback_commit_contact">请输入联系方式！</string>
+    <string name="droi_feedback_commit_contact_invalid">请输入电话或邮箱！</string>
+    <string name="droi_feedback_commit_content">请输入内容后提交！</string>
+    <string name="droi_feedback_commit_failed">提交失败！</string>
+    <string name="droi_feedback_commit_failed_network">提交失败，请检查您的网络！</string>
+    <string name="droi_feedback_commit_feedback">请输入反馈！</string>
+    <string name="droi_feedback_commit_successful">提交成功！</string>
+    <string name="droi_feedback_commit_title">提交反馈</string>
+    <string name="droi_feedback_commiting">正在提交，请稍候……</string>
+    <string name="droi_feedback_contact_hint">在此输入您的联系方式（电话或邮箱）</string>
+    <string name="droi_feedback_content_hint">在此输入您的意见及建议（200字以内）</string>
+    <string name="droi_feedback_error_text">没有网络或发生错误</string>
+    <string name="droi_feedback_menu_submit">提交</string>
+    <string name="droi_feedback_no_feedback_text">您还没有反馈</string>
+    <string name="droi_feedback_no_reply_text">感谢您的热心反馈，我们会在第一时间回复您。</string>
+    <string name="droi_feedback_reply_text">回复:</string>
+    <string name="droi_feedback_send_button_text">提 交</string>
+    <string name="droi_feedback_title">您的每一条建议和意见都是我们不断改进产品的动力。</string>
+    <string name="droi_feedback_topbar_submit_text">提交意见反馈</string>
+    <string name="droi_feedback_topbar_title_text">意见反馈</string>
+</resources>

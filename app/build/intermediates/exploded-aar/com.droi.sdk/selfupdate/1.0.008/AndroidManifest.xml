@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.droi.sdk.selfupdate" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="15" />
+
+    <application>
+
+        <!-- 版本更新 -->
+        <activity
+            android:name="com.droi.sdk.selfupdate.DroiUpdateDialogActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+
+        <receiver android:name="com.droi.sdk.selfupdate.NotificationClickReceiver" />
+    </application>
+
+</manifest>

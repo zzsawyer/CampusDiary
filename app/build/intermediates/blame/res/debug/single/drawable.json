@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_add_pic.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\btn_add_pic.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_guide_bg.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\selector_guide_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_adapter_item_bg.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\selector_adapter_item_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_update_dialog_bg_normal.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable\\droi_update_dialog_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_feedback_send_btn_normal.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\feedback\\1.0.004\\res\\drawable\\droi_feedback_send_btn_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_update_dialog_btn_install_normal.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable\\droi_update_dialog_btn_install_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_update_dialog_btn_right_pressed.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable\\droi_update_dialog_btn_right_pressed.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_feedback_send_btn_pressed.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\feedback\\1.0.004\\res\\drawable\\droi_feedback_send_btn_pressed.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_confirm.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\btn_confirm.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_update_dialog_btn_install_pressed.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable\\droi_update_dialog_btn_install_pressed.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_update_dialog_btn_left_pressed.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable\\droi_update_dialog_btn_left_pressed.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cancel.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\btn_cancel.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_update_dialog_btn_left_selector.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable\\droi_update_dialog_btn_left_selector.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_update_dialog_btn_right_normal.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable\\droi_update_dialog_btn_right_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_update_dialog_btn_left_normal.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable\\droi_update_dialog_btn_left_normal.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_guide_bg_focus.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\shape_guide_bg_focus.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_update_dialog_btn_right_selector.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable\\droi_update_dialog_btn_right_selector.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_update_dialog_title_bar_bg_skyblue.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable\\droi_update_dialog_title_bar_bg_skyblue.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_feedback_send_btn_selector.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\feedback\\1.0.004\\res\\drawable\\droi_feedback_send_btn_selector.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\im_selector_social_dig_name_bg.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\im_selector_social_dig_name_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_update_dialog_btn_check_selector.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable\\droi_update_dialog_btn_check_selector.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shape_guide_bg_defaut.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\shape_guide_bg_defaut.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_update_dialog_btn_install_selector.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable\\droi_update_dialog_btn_install_selector.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_del.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\btn_del.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\droi_feedback_editsharp.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\feedback\\1.0.004\\res\\drawable\\droi_feedback_editsharp.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_selector.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\text_selector.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\basic_skin_icon_dot_gray.9.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\basic_skin_icon_dot_gray.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image_selected.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable\\image_selected.xml"
+    }
+]

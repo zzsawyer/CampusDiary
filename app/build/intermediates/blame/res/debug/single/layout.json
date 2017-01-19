@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_pic_dialog.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\select_pic_dialog.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_more_progress.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\view_more_progress.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_circle.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\head_circle.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_magic_text.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\layout_magic_text.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewstub_imgbody.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\viewstub_imgbody.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\droi_feedback_reply_layout.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\feedback\\1.0.004\\res\\layout\\droi_feedback_reply_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\droi_update_dialog.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\layout\\droi_update_dialog.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_publish.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\activity_publish.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_circle_item.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\adapter_circle_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_up.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\droi_feedback_send_layout.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\feedback\\1.0.004\\res\\layout\\droi_feedback_send_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_editview.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\layout_editview.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_profile.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_more_progress.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.malinskiy\\superrecyclerview\\1.1.4\\res\\layout\\layout_more_progress.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sign_in.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewstub_urlbody.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\viewstub_urlbody.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_comment.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\item_comment.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zoom.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\activity_zoom.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_pager_image.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\item_pager_image.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bucket_choose.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\activity_bucket_choose.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head_titlebar.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\head_titlebar.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_self.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\activity_self.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_progress_recyclerview.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.malinskiy\\superrecyclerview\\1.1.4\\res\\layout\\layout_progress_recyclerview.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_verticalscroll.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.malinskiy\\superrecyclerview\\1.1.4\\res\\layout\\layout_recyclerview_verticalscroll.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_progress.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.malinskiy\\superrecyclerview\\1.1.4\\res\\layout\\layout_progress.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imagepager.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\activity_imagepager.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dp_push_notification_layout.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\push\\1.0.004\\res\\layout\\dp_push_notification_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_publish.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\item_publish.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_comment.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\dialog_comment.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_horizontalscroll.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.malinskiy\\superrecyclerview\\1.1.4\\res\\layout\\layout_recyclerview_horizontalscroll.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_list.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\item_image_list.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dp_download_notification_layout.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\push\\1.0.004\\res\\layout\\dp_download_notification_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\social_sns_popupwindow.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\social_sns_popupwindow.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_bucket_list.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\item_bucket_list.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\droi_feedback_reply_item.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\feedback\\1.0.004\\res\\layout\\droi_feedback_reply_item.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\droi_feedback_activity_layout.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\feedback\\1.0.004\\res\\layout\\droi_feedback_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_upload.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\layout_upload.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_choose.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\activity_image_choose.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_nickname.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\layout\\pop_nickname.xml"
+    }
+]

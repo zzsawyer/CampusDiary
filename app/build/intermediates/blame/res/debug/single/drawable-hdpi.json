@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_video_play.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-hdpi\\ic_video_play.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

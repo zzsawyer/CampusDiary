@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingRight="7dp"
+    android:paddingTop="10dp"
+    tools:context="com.droi.sdk.feedback.DroiFeedbackActivity" >
+
+    <TextView
+        android:id="@+id/droi_feedback_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/droi_feedback_title"
+        android:textColor="#666666"
+        android:textSize="17sp" />
+
+    <EditText
+        android:id="@+id/droi_feedback_contact"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/droi_feedback_editsharp"
+        android:gravity="center_vertical|left"
+        android:hint="@string/droi_feedback_contact_hint"
+        android:lines="1"
+        android:maxLength="30"
+        android:maxLines="1"
+        android:paddingLeft="9dp"
+        android:singleLine="true"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/droi_feedback_content"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/droi_feedback_editsharp"
+        android:gravity="top"
+        android:hint="@string/droi_feedback_content_hint"
+        android:inputType="textMultiLine"
+        android:lines="6"
+        android:maxLines="6"
+        android:paddingLeft="9dp"
+        android:paddingTop="9dp"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/droi_feedback_send"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/droi_feedback_send_btn_selector"
+        android:text="@string/droi_feedback_send_button_text"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp" />
+
+</LinearLayout>

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\droi_update_btn_check_on_holo_light.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable-xhdpi-v4\\droi_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_style_alert_dialog_cancel.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xhdpi\\btn_style_alert_dialog_cancel.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\droi_update_btn_check_off_holo_light.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable-xhdpi-v4\\droi_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_activity_profile_logout.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xhdpi\\btn_activity_profile_logout.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_style_alert_dialog_special.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xhdpi\\btn_style_alert_dialog_special.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\droi_update_btn_check_on_pressed_holo_light.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable-xhdpi-v4\\droi_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\droi_feedback_back_arrow.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\feedback\\1.0.004\\res\\drawable-xhdpi-v4\\droi_feedback_back_arrow.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\selector_send.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xhdpi\\selector_send.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\droi_update_btn_check_off_focused_holo_light.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable-xhdpi-v4\\droi_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\droi_update_btn_check_on_focused_holo_light.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable-xhdpi-v4\\droi_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\droi_feedback_write_feedback.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\feedback\\1.0.004\\res\\drawable-xhdpi-v4\\droi_feedback_write_feedback.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\droi_update_btn_check_off_pressed_holo_light.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\exploded-aar\\com.droi.sdk\\selfupdate\\1.0.008\\res\\drawable-xhdpi-v4\\droi_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\btn_style_alert_dialog_button.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xhdpi\\btn_style_alert_dialog_button.xml"
+    }
+]

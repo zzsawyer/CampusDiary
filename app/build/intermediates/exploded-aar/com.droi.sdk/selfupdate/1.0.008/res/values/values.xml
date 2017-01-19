@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="droi_dialog_downloading">Downloading</string>
+    <string name="droi_dialog_installapk">The lastest version has been downloaded, install now ?</string>
+    <string name="droi_download_failed">Download Failed!</string>
+    <string name="droi_download_failed_permission">Have no permission to create path!</string>
+    <string name="droi_download_failed_redownload">Download failed,click to redownload!</string>
+    <string name="droi_downloaded">has been downloaded</string>
+    <string name="droi_downloading">Downloading:</string>
+    <string name="droi_force_update">Force Update!</string>
+    <string name="droi_ignore">Ingore this</string>
+    <string name="droi_insatll">Install now</string>
+    <string name="droi_new_size">Target size:</string>
+    <string name="droi_new_version">Latest version:</string>
+    <string name="droi_not_now">Not now</string>
+    <string name="droi_patch_failed">Patch Failed!</string>
+    <string name="droi_patch_failed_redownload">Patch failed,click to redownload!</string>
+    <string name="droi_patch_size">Update size:</string>
+    <string name="droi_patching">Patching</string>
+    <string name="droi_redownload">ReDownload</string>
+    <string name="droi_toast_isupdating">Updating…</string>
+    <string name="droi_update_content">Update Content:</string>
+    <string name="droi_update_now">Update now</string>
+    <string name="droi_update_title">New version found</string>
+</resources>

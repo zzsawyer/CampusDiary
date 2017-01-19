@@ -1,0 +1,13 @@
+int attr cpb_background_progressbar_color 0x7f010002
+int attr cpb_background_progressbar_width 0x7f010004
+int attr cpb_progress 0x7f010000
+int attr cpb_progressbar_color 0x7f010001
+int attr cpb_progressbar_width 0x7f010003
+int dimen default_background_stroke_width 0x7f020000
+int dimen default_stroke_width 0x7f020001
+int[] styleable CircularProgressBar { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004 }
+int styleable CircularProgressBar_cpb_background_progressbar_color 2
+int styleable CircularProgressBar_cpb_background_progressbar_width 4
+int styleable CircularProgressBar_cpb_progress 0
+int styleable CircularProgressBar_cpb_progressbar_color 1
+int styleable CircularProgressBar_cpb_progressbar_width 3

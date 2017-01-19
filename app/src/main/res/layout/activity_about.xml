@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_gray">
+
+    <include
+        android:id="@+id/title_bar"
+        layout="@layout/head_titlebar" />
+
+    <TextView
+        android:id="@+id/main_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/version_code"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_centerInParent="true"
+        android:textColor="@android:color/black"
+        android:text="校园日记"
+        />
+
+    <TextView
+        android:id="@+id/version_code"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_centerInParent="true"
+        android:textColor="@android:color/black"
+        android:text="  最时尚的大学生社交活动社区校园日记App，专为广大在校学生们打造的校园日记分享软件。你可以分享自己的照片、美食、心情，一起来试试吧。"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_centerInParent="true"
+        android:src="@drawable/icon"
+        android:layout_above="@+id/main_name"/>
+
+    <TextView
+        android:id="@+id/reserved"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:textColor="@android:color/black"
+        android:text="Copyright © 2016-2017."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/reserved"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/black"
+        android:text="上海XX网络科技有限公司"/>
+</RelativeLayout>

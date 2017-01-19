@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_gray" >
+
+    <GridView
+        android:id="@+id/gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/finish_btn"
+        android:layout_below="@+id/title_bar"
+        android:layout_margin="8dp"
+        android:horizontalSpacing="8dp"
+        android:numColumns="3"
+        android:scrollbars="none"
+        android:verticalSpacing="8dp" >
+    </GridView>
+
+    <Button
+        android:id="@+id/finish_btn"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/btn"
+        android:text="完成"
+        android:textColor="@color/deep_gray"
+        android:textSize="20sp" />
+
+    <include
+        android:id="@+id/title_bar"
+        layout="@layout/head_titlebar" />
+
+</RelativeLayout>

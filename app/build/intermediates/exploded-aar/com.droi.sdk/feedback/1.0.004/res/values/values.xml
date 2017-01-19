@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="droi_feedback_commit_contact">Please enter contact！</string>
+    <string name="droi_feedback_commit_contact_invalid">Please enter Phone or E-mail！</string>
+    <string name="droi_feedback_commit_content">Please enter content！</string>
+    <string name="droi_feedback_commit_failed">Submit failed！</string>
+    <string name="droi_feedback_commit_failed_network">Submit failed,Please check your network!</string>
+    <string name="droi_feedback_commit_feedback">Please enter feedback！</string>
+    <string name="droi_feedback_commit_successful">Submit success！</string>
+    <string name="droi_feedback_commit_title">Submit feedback</string>
+    <string name="droi_feedback_commiting">Submitting, please wait…</string>
+    <string name="droi_feedback_contact_hint">Enter your contact (Phone or E-mail)</string>
+    <string name="droi_feedback_content_hint">Enter your feedback (within 400 letters)</string>
+    <string name="droi_feedback_error_text">No Network Available or Error</string>
+    <string name="droi_feedback_menu_submit">Submit</string>
+    <string name="droi_feedback_no_feedback_text">Your have no feedback yet.</string>
+    <string name="droi_feedback_no_reply_text">We welcome your feedback,we will reply to you as soon as possible</string>
+    <string name="droi_feedback_reply_text">Reply:</string>
+    <string name="droi_feedback_send_button_text">Submit</string>
+    <string name="droi_feedback_title">We welcome your suggestions and comments to improve our services and products.</string>
+    <string name="droi_feedback_topbar_submit_text">Submit Feedback</string>
+    <string name="droi_feedback_topbar_title_text">Feedback</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="10dp" >
+
+    <TextView
+        android:id="@+id/droi_feedback_no_reply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:textSize="20sp" />
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/droi_feedback_refresh_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/droi_feedback_reply_item_contatiner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F3F3F3" >
+        </ListView>
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+</LinearLayout>

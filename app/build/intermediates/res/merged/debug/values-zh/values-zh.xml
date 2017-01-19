@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="droi_dialog_downloading">正在下载更新</string>
+    <string name="droi_dialog_installapk">最新版本已经下载，是否安装？</string>
+    <string name="droi_download_failed">下载失败!</string>
+    <string name="droi_download_failed_permission">下载失败，没有存储权限！</string>
+    <string name="droi_download_failed_redownload">下载失败，点击重新下载！</string>
+    <string name="droi_downloaded">下载完成</string>
+    <string name="droi_downloading">正在下载：</string>
+    <string name="droi_feedback_commit_contact">请输入联系方式！</string>
+    <string name="droi_feedback_commit_contact_invalid">请输入电话或邮箱！</string>
+    <string name="droi_feedback_commit_content">请输入内容后提交！</string>
+    <string name="droi_feedback_commit_failed">提交失败！</string>
+    <string name="droi_feedback_commit_failed_network">提交失败，请检查您的网络！</string>
+    <string name="droi_feedback_commit_feedback">请输入反馈！</string>
+    <string name="droi_feedback_commit_successful">提交成功！</string>
+    <string name="droi_feedback_commit_title">提交反馈</string>
+    <string name="droi_feedback_commiting">正在提交，请稍候……</string>
+    <string name="droi_feedback_contact_hint">在此输入您的联系方式（电话或邮箱）</string>
+    <string name="droi_feedback_content_hint">在此输入您的意见及建议（200字以内）</string>
+    <string name="droi_feedback_error_text">没有网络或发生错误</string>
+    <string name="droi_feedback_menu_submit">提交</string>
+    <string name="droi_feedback_no_feedback_text">您还没有反馈</string>
+    <string name="droi_feedback_no_reply_text">感谢您的热心反馈，我们会在第一时间回复您。</string>
+    <string name="droi_feedback_reply_text">回复:</string>
+    <string name="droi_feedback_send_button_text">提 交</string>
+    <string name="droi_feedback_title">您的每一条建议和意见都是我们不断改进产品的动力。</string>
+    <string name="droi_feedback_topbar_submit_text">提交意见反馈</string>
+    <string name="droi_feedback_topbar_title_text">意见反馈</string>
+    <string name="droi_force_update">强制更新，不更新无法继续使用该应用!</string>
+    <string name="droi_ignore">忽略</string>
+    <string name="droi_insatll">立即安装</string>
+    <string name="droi_new_size">新版本大小：</string>
+    <string name="droi_new_version">最新版本：</string>
+    <string name="droi_not_now">以后再说</string>
+    <string name="droi_patch_failed">合成失败</string>
+    <string name="droi_patch_failed_redownload">合成失败，点击重新下载！</string>
+    <string name="droi_patch_size">仅需下载：</string>
+    <string name="droi_patching">正在合成</string>
+    <string name="droi_redownload">重新下载</string>
+    <string name="droi_toast_isupdating">更新中…</string>
+    <string name="droi_update_content">更新内容：</string>
+    <string name="droi_update_now">立即更新</string>
+    <string name="droi_update_title">发现新版本</string>
+</resources>

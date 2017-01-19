@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in_2.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\anim\\push_bottom_in_2.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_exit_anim.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\anim\\pop_exit_anim.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pop_enter_anim.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\anim\\pop_enter_anim.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_ins.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\anim\\fade_ins.xml"
+    }
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="com.malinskiy.superrecyclerview"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="7"
+    android:versionName="1.1.4" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="23" />
+
+    <application />
+
+</manifest>

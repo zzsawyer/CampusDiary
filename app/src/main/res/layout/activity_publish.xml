@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_gray"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/title_bar"
+        layout="@layout/head_titlebar" />
+    <LinearLayout
+        android:layout_below="@id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/contentText"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_margin="8dp"
+            android:background="@color/white"
+            android:freezesText="true"
+            android:gravity="left|top"
+            android:hint="@string/publish_empty_text" >
+        </EditText>
+
+        <GridView
+            android:id="@+id/gridview"
+            android:layout_width="wrap_content"
+            android:layout_height="350dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:horizontalSpacing="3dp"
+            android:numColumns="4"
+            android:scrollbars="none"
+            android:verticalSpacing="5dp" >
+        </GridView>
+    </LinearLayout>
+
+    <include
+        android:id="@+id/select_pic"
+        layout="@layout/select_pic_dialog" />
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.droi.sdk.push"
+    android:versionCode="1"
+    android:versionName="1.0.004" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="15" />
+
+    <!-- permission used in push sdk -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.FLASHLIGHT" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application>
+        <service
+            android:name="com.droi.sdk.push.DroiPushService"
+            android:exported="true"
+            android:process=":pushservice" >
+            <meta-data
+                android:name="SERVICE_VERSION"
+                android:value="1.0.003" >
+            </meta-data>
+
+            <intent-filter>
+                <action android:name="com.droi.sdk.push.action.START" />
+            </intent-filter>
+        </service>
+
+        <receiver android:name="com.droi.sdk.push.TickAlarmReceiver" />
+        <receiver android:name="com.droi.sdk.push.DroiPushReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+                <action android:name="android.intent.action.PACKAGE_REPLACED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.intent.action.PHONE_STATE" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.intent.action.USER_CLEARNOTIFY" />
+                <action android:name="com.droi.sdk.push.action.DATA" />
+                <action android:name="dollar_openBracket_applicationId_closeBracket" />
+                <action android:name="com.droi.sdk.push.action.REMOVE_NOTIFICATION" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.droi.sdk.push.DroiPushActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/droi_dialog_activity_style" >
+            <intent-filter>
+                <action android:name="com.droi.sdk.push.action.SHOW_DETAIL" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

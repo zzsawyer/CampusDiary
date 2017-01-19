@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/title_bar"
+        android:layout_width="match_parent"
+        android:layout_height="48dp">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="48dp" >
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="20dp"
+            android:background="#000000" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/nav_bg" />
+
+        <ImageView
+            android:id="@+id/back_botton"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:padding="10dp"
+            android:src="@drawable/item_grid_header_arrow_icon"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/login_account"
+            android:textColor="#ffffff"
+            android:textSize="24dp" />
+
+        <Button
+            android:id="@+id/right_botton"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_gravity="center_vertical|right"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/filter_blue_btn"
+            android:text="@string/register_regist"
+            android:textColor="#ffffff"
+            android:textSize="16dp"
+            android:visibility="gone" />
+    </FrameLayout>
+</RelativeLayout>

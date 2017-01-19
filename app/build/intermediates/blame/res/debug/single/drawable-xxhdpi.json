@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\index_body_bg.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\index_body_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\default_account_icon.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\default_account_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_feedback.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\ic_feedback.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\common_item_arrow.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\common_item_arrow.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\im_pub_no_image.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\im_pub_no_image.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\demo_social_sns_bg.9.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\demo_social_sns_bg.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\log_in_user_name_icon.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\log_in_user_name_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\item_grid_filter_bg.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\item_grid_filter_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_about.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\im_skin_icon_imageload_default.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\im_skin_icon_imageload_default.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\nav_bg.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\nav_bg.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_userinfo.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\ic_userinfo.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_update.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\ic_update.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\body_cont.9.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\body_cont.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\item_grid_header_arrow_icon.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\item_grid_header_arrow_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\filter_blue_btn.9.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\filter_blue_btn.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\im_aio_image_fail_round.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\im_aio_image_fail_round.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\im_distribute_comm_bg.9.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\im_distribute_comm_bg.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_praise.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\icon_praise.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\im_skin_icon_imageload_failed.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\im_skin_icon_imageload_failed.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\log_in_key_icon.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\log_in_key_icon.png"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\im_snsimg.png",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\im_snsimg.png"
+    }
+]

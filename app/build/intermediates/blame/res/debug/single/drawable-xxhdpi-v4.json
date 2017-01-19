@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\body.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\body.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\filter_toolbar_bg.xml",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\filter_toolbar_bg.xml"
+    },
+    {
+        "merged": "D:\\workspace\\CampusDiary\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\icon_head_bg.jpg",
+        "source": "D:\\workspace\\CampusDiary\\app\\src\\main\\res\\drawable-xxhdpi\\icon_head_bg.jpg"
+    }
+]

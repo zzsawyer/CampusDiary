@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.SignUpActivity">
+
+    <include
+        android:id="@+id/title_bar"
+        layout="@layout/head_titlebar" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@drawable/body" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/body_cont"
+                android:gravity="center_vertical"
+                android:orientation="vertical" >
+
+                <EditText
+                    android:id="@+id/register_name"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_margin="5dp"
+                    android:background="#ffffff"
+                    android:gravity="center_vertical"
+                    android:hint="用户名（不少于6个字符）"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:singleLine="true"
+                    android:textColor="#000000"
+                    android:maxLength="20"
+                    android:textSize="16dp" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.1dp"
+                    android:background="#c4c4c4" />
+
+                <EditText
+                    android:id="@+id/nick_name"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_margin="5dp"
+                    android:background="#ffffff"
+                    android:gravity="center_vertical"
+                    android:hint="设置昵称"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:singleLine="true"
+                    android:textColor="#000000"
+                    android:textSize="16dp" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.1dp"
+                    android:background="#c4c4c4" />
+
+                <EditText
+                    android:id="@+id/register_password1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_margin="5dp"
+                    android:background="#ffffff"
+                    android:gravity="center_vertical"
+                    android:hint="@string/login_password"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:password="true"
+                    android:singleLine="true"
+                    android:textColor="#000000"
+                    android:maxLength="20"
+                    android:textSize="16dp" />
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="0.1dp"
+                    android:background="#c4c4c4" />
+
+                <EditText
+                    android:id="@+id/register_password2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_margin="5dp"
+                    android:background="#ffffff"
+                    android:gravity="center_vertical"
+                    android:hint="@string/register_confirm"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:password="true"
+                    android:singleLine="true"
+                    android:textColor="#000000"
+                    android:maxLength="20"
+                    android:textSize="16dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/register_body"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@drawable/body_cont"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:padding="5dp"
+                android:visibility="gone" >
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
